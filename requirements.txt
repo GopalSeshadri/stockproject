@@ -16,7 +16,7 @@ Jinja2==2.10.1
 joblib==0.13.2
 lxml==4.4.0
 MarkupSafe==1.1.1
-numpy==1.17.0
+numpy==1.22.0
 pandas==0.25.0
 pandas-datareader==0.7.3
 patsy==0.5.1
